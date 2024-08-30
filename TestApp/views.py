@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 #create a view
 def index(request):
-    return HttpResponse("<h1>Hello This is the first Django Project</h1>")
+    return HttpResponse("<h1>Hello first Django Project</h1>")
